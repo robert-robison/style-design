@@ -1,0 +1,34 @@
+style,Aesthetic: Minimalist to Maximalist,Atmosphere2: Informal to Formal,Atmosphere: Rustic to Industrial,Culture and Location: Global to Local,Materials: Nature-Inspired to High Tech,Modernity: Traditional to Transitional to Modern,important
+Art Deco,75,80,75,50,25,45,FALSE
+Asian-Inspired,45,75,25,50,20,45,FALSE
+Bohemian,75,10,25,50,10,25,FALSE
+Coastal,40,25,25,50,10,40,FALSE
+Contemporary,45,75,50,50,50,75,FALSE
+Cottage,60,25,20,75,5,20,FALSE
+Craftsman,45,25,35,75,10,25,FALSE
+Eclectic,75,50,50,50,25,50,FALSE
+Euro Modern,35,75,65,50,75,75,FALSE
+Farmhouse,45,20,40,70,10,25,FALSE
+French Country,65,60,25,75,0,25,FALSE
+Hollywood Glam,90,90,20,50,20,75,FALSE
+Industrial,35,25,100,50,35,70,FALSE
+Japandi,30,45,35,50,10,65,FALSE
+Mediterranean,75,45,25,50,15,40,FALSE
+Mid-Century,40,50,65,50,25,75,FALSE
+Minimalist,0,40,75,50,20,80,FALSE
+Modern,45,75,50,50,50,100,TRUE
+Modern Farmhouse,50,30,35,75,10,50,FALSE
+Modern Traditional,50,75,50,50,25,50,FALSE
+Mountain West,45,25,30,75,10,75,FALSE
+New England,30,65,35,75,10,25,FALSE
+Organic Modern,50,40,25,50,15,75,FALSE
+Pacific Northwest,35,25,45,75,20,75,FALSE
+Rustic,40,25,0,90,0,25,FALSE
+Scandinavian,20,25,50,50,10,75,FALSE
+Shabby Chic,65,25,25,50,15,25,FALSE
+Shaker,25,40,25,85,0,25,FALSE
+Southwestern,50,35,45,75,5,35,FALSE
+Spanish Mission,40,35,25,50,5,20,FALSE
+Traditional,75,75,25,75,15,0,TRUE
+Transitional,50,75,50,50,25,50,TRUE
+Victorian,90,95,25,50,20,15,FALSE
