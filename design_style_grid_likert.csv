@@ -1,0 +1,34 @@
+style,Formal--Informal,Industrial--Rustic,Maximalist--Minimalist,Traditional--Modern,important
+Art Deco,3,1,3,4,FALSE
+Asian-Inspired,4,4,4,4,FALSE
+Bohemian,5,5,1,3,FALSE
+Coastal,5,4,4,4,FALSE
+Contemporary,3,2,4,5,FALSE
+Cottage,5,5,3,3,FALSE
+Craftsman,4,5,4,2,FALSE
+Eclectic,4,3,3,3,FALSE
+Euro Modern,4,2,5,5,FALSE
+Farmhouse,5,4,4,3,FALSE
+French Country,5,4,3,2,FALSE
+Hollywood Glam,2,1,1,4,FALSE
+Industrial,4,4,4,4,FALSE
+Japandi,4,5,5,4,FALSE
+Mediterranean,5,4,3,3,FALSE
+Mid-Century,4,4,4,4,FALSE
+Minimalist,4,4,5,5,FALSE
+Modern,3,2,5,5,TRUE
+Modern Farmhouse,5,4,4,4,FALSE
+Modern Traditional,3,4,4,3,FALSE
+Mountain West,5,5,4,3,FALSE
+New England,5,4,4,2,FALSE
+Organic Modern,4,5,4,4,FALSE
+Pacific Northwest,5,4,4,3,FALSE
+Rustic,5,5,4,2,FALSE
+Scandinavian,5,4,5,4,FALSE
+Shabby Chic,5,4,1,3,FALSE
+Shaker,4,5,5,2,FALSE
+Southwestern,5,4,3,3,FALSE
+Spanish Mission,5,5,3,1,FALSE
+Traditional,2,4,1,1,TRUE
+Transitional,3,3,3,3,TRUE
+Victorian,1,4,1,1,FALSE
